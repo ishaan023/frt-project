@@ -41,7 +41,7 @@ BankCard is a website that helps retail investors and credit card users to inves
 ![image](https://github.com/ishaan023/frt-project/blob/main/images/team4.jpg)
 ![image](https://github.com/ishaan023/frt-project/blob/main/images/team5.jpg)
 
-### Imaages of the Chat Bot [Chitti]
+### Images of the Chat Bot [Chitti]
 
 ![image](https://github.com/ishaan023/frt-project/blob/main/images/chatbot.png)
 ![image](https://github.com/ishaan023/frt-project/blob/main/images/chatbot1.png)
